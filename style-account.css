@@ -79,7 +79,7 @@ body {
 
 }
 @media (max-width:640px) {
-    .form {
+    .form-container {
         height: 100%;
     }
     .form {
